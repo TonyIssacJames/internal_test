@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1616013114 source:d:\git_repos\internal_test\01_recursion\recursion_algos\head_recursion.c
+	<stdio.h>
+	"head_recursion.h"
+
+1616012999 source:d:\git_repos\internal_test\01_recursion\recursion_algos\tail_recursion.c
+	<stdio.h>
+	"tail_recursion.h"
+
+1616013205 source:d:\git_repos\internal_test\01_recursion\recursion_algos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1616012703 d:\git_repos\internal_test\01_recursion\recursion_algos\main.h
+	"head_recursion.h"
+	"tail_recursion.h"
+
+1616012384 d:\git_repos\internal_test\01_recursion\recursion_algos\head_recursion.h
+
+1616012411 d:\git_repos\internal_test\01_recursion\recursion_algos\tail_recursion.h
+
